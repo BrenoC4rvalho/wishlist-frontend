@@ -1,34 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# WISHLIST FRONTEND
 
-## Getting Started
+## 👀 Como ficou ???
 
-First, run the development server:
+<img src="./img/1.jpg" width="600px"></img>
+----------
+<img src="./img/2.jpg" width="600px"></img>
+----------
+<img src="./img/3.jpg" width="600px"></img>
+----------
+<img src="./img/4.jpg" width="600px"></img>
+----------
+<img src="./img/5.jpg" width="600px"></img>
+----------
+<img src="./img/6.jpg" width="600px"></img>
+----------
+<img src="./img/7.jpg" width="600px"></img>
+----------
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## ⌨️ Sobre o projeto
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+O projeto consiste num frontend que consome uma api java. Uma lista de desejo, que contém paginação, ordenação e upload de imagem. Ele foi criado utilizando [Next](https://nextjs.org/).
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## 🧑‍💻 Tecnologias usadas
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+O projeto foi desenvolvido com as seguintes tecnologias:
+- [React JS](https://pt-br.reactjs.org/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
+- [Tailwind](https://tailwindcss.com/docs/guides/nextjs)
+- [DaisyUI](https://daisyui.com/components/navbar/)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## Rodar o projeto
 
-To learn more about Next.js, take a look at the following resources:
+Primeiramente é necessário ter o node, caso não tenha faça a instalação do[NODE](https://nodejs.org/en/download/).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## `npm install`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+É necessário dar um "npm install" ou "npm i", para instalar as depêndencias do projeto.
 
-## Deploy on Vercel
+## `npm run dev`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Depois de ter instalado as dependências, basta dar um "npm start", para rodar o projeto em modo desenvolvedor. Abra [http://localhost:3000](http://localhost:3000) para vê o projeto em seu navegador.
